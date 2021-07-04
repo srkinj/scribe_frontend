@@ -18,7 +18,7 @@
 ![Скриншот 3](../master/images/3.png)
 
 Интерфейс выполнения задания 
-![Скриншот 4](../master/images/5.png)
+![Скриншот 4](../master/images/5.jpg)
 
 ## Project setup
 ```
